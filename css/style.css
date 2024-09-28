@@ -1,0 +1,19 @@
+.home {
+    background-image:linear-gradient(rgb(27, 26, 85,0.9),rgb(27, 26, 85,0.9)),url(../images/header.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+.home h1{
+    letter-spacing: -0.5px;
+}
+.about{
+    img{
+        height: 250px;
+    }
+    h6{
+        color: rgb(152, 145, 145);
+    }
+}
+
