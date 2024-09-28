@@ -44,7 +44,7 @@ function addProduct() {
 function displaydata(list) {
     var cartona = ``;
     for (var i = 0; i < list.length; i++) {
-        cartona += `<div class="col-4 mb-4">
+        cartona += `<div class="col-md-4 col-sm-6 mb-4">
                         <div class=" rounded-3 overflow-hidden shadow">
                             <img src="${list[i].image}" class="w-100"  alt="Product Image">
                             <div class="caption p-3">

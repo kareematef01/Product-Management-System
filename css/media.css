@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+
+   .home .form-group{
+    width: 100% !important;
+   }
+  .about .custom{
+    width: 75% !important;
+    margin: auto;
+  }
+  }
